@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeKotlin6</string>
+    <string name="add">Открыть галерею</string>
+    <string name="permision_read">Разрешение на чтение данных</string>
+    <string name="go_to_settings">Перейти в Настройки?</string>
+    <string name="go">да перейти</string>
+    <string name="no_i_wanna_stay">Нет я хочу остаться</string>
+</resources>
